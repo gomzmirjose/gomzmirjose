@@ -5,6 +5,6 @@
 - 📫 How to reach me ...
 
 <!---
-gomzmirjose/gomzmirjose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+Crea tu app para móviles y tablets Android
+¡De forma gratuita y gana dinero mostrando anuncios!
 --->
