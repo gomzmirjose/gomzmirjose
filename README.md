@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gomzmirjose
-- 👀 I’m interested in app 
+- 👀 I’m interested in el desarrollo de aplicaciones 
 - 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on Google Play 
 - 📫 How to reach me gomzmirjose@gmail.com
 
 <!---
